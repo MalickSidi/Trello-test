@@ -8,6 +8,10 @@ window.TrelloPowerUp.initialize({
         {
           text: card.idShort,
         },
+        {
+            text: 'Aldar Alkhasa',
+            color: 'green'
+        }
       ];
     });
   },
